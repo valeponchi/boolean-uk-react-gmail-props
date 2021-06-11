@@ -15,7 +15,8 @@ Instructions
 - Break down app.css into stylesheets
 - Pass through the relevant data as props to each component
 - Pass through the relevant functions as props to each component
-- Get the search input to work in the header section so that users can search for emails by title
+- Get the search input to work in the header section so that users can search 
+  for emails by title
 
 Tips
 - ✅Break down the App component by component and make sure the functionality continues to work before moving onto the next section.

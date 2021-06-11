@@ -7,8 +7,9 @@ import Header from './components/Header'
 import AsideNav from './components/AsideNav'
 import Main from './components/Main'
 
+//f output: unread-emails
 const getReadEmails = emails => emails.filter(email => !email.read)
-
+//f output: starred-emails
 const getStarredEmails = emails => emails.filter(email => email.starred)
 
 function App() {
